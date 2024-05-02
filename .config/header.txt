@@ -1,0 +1,15 @@
+<!--This file is managed by the Github Bootstrap workflow. Any modifications to this file may be overwritten.-->
+<!--To make changes, please modify the terraform-github-easy-bootstrap module.-->
+<!-- markdownlint-disable-file MD033 MD012 -->
+# terraform-github-easy-bootstrap
+LederWorks easy oci network waf-policy engine module
+
+This module were created by [LederWorks](https://LederWorks.com) IaC enthusiasts.
+
+## About This Module
+This is a Terraform module.
+
+## How to Use This Modul
+- Ensure Github credentials are [in place](https://registry.terraform.io/providers/integrations/github/latest/docs#authentication)
+- Admin role or equivalent is required!
+- Create a Terraform configuration that pulls in this module and specifies values for the required variables.
