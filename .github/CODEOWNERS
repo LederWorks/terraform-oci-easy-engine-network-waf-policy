@@ -1,0 +1,17 @@
+#This file is managed by the Github Bootstrap workflow. Any modifications to this file may be overwritten.
+#To make changes, please modify the terraform-github-easy-bootstrap module.
+
+# Global rule
+* @Ledermayer
+
+# All terraform code 
+*.tf @LederWorks/easy-terraform
+
+# Content Folder
+/.config/** @LederWorks/lederworks-admins
+
+# Github Folder
+/.github/** @LederWorks/lederworks-admins
+
+# Test Folder
+/.test/** @LederWorks/lederworks-admins
